@@ -38,9 +38,17 @@ justify-content: flex-end;
 .bob{
     display: flex;
     justify-content: center;
-    justify-content: space-around; }
+    justify-content: space-around; 
+    color: #17181c;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 0 3px;
+    text-transform: uppercase;}
    
     .bvb{height: 91.4mm;
     
     
     width: 103.28mm;}
+.psg{
+    color: lightslategray;
+}
